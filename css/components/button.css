@@ -1,0 +1,16 @@
+
+.btn-mine {
+  color: white;
+  padding: 15px 15px;
+  border-radius: 70px;
+  background-image: -webkit-linear-gradient(#fed6e3 0%, #ffaaaa 100%);
+  font-size: 16px;
+  cursor: pointer;
+  margin: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-mine:hover {
+  background-image: -webkit-linear-gradient(#6AD58B 0%, #6AD58B 100%);
+}
